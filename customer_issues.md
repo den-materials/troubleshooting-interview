@@ -57,3 +57,15 @@
 - One of your providers that has a shop on your website calls you to tell you that their store will be closed for Memorial Day, and they need to know how to close their online shop that day as well. 
 
 - A customer calls to tell you that nothing on the site works anymore, and she's pretty sure it's because of all the dirty movies her husband watches.
+
+- A QA tester is complaining that, “After you submitted your latest code, the website is broken. What did you do?!”
+
+- A customer calls and demands to be taken off of your email list. Every time she unsubscribes, she starts receiving emails again the next month
+
+- The client calls to complain that when they print out screenshots of their website, the colors are all wrong.
+
+- The comment sections of your website are suddenly being flooded with profane advertisements for prescription pills.
+
+- You just walked by the server room, and it is slowly flooding.  You have no idea what is in there, but should probably do something about it.
+
+- Your coworker calls you because they are trying to learn Angular for a new project they have due tomorrow, but they have no idea what it even is.
